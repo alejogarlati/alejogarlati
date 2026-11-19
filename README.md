@@ -30,11 +30,13 @@ Building digital products, conversion-focused interfaces, and AI-assisted workfl
 
 ---
 
-### Live Projects
+### Featured Projects
 
-| Project | Focus | Live Demo |
+| Project | Focus | Links |
 | :--- | :--- | :--- |
-| **Interactive Web Portfolio** | Bilingual UI/Visual Design Showcase (`Next.js 15 · Tailwind · Three.js`) | [alejogarlati.vercel.app](https://alejogarlati.vercel.app) |
-| **Trace Studio Landing** | Custom Software & Automation Web (`Next.js 16 · Three.js · GSAP`) | [trace-studio-landing.vercel.app](https://trace-studio-landing.vercel.app) |
-| **Nuven Landing** | Brand Platform & Motion UI (`Next.js · GSAP · Radix UI`) | [nuven-landing.vercel.app](https://nuven-landing.vercel.app) |
-| **Fundación El Casco Rosa** | Multi-route Institutional MVP (`Next.js 16 · Framer Motion`) | [landing-casco-rosa-mvp.vercel.app](https://landing-casco-rosa-mvp.vercel.app) |
+| **[Interactive Web Portfolio](https://github.com/alejogarlati/portfolio-web)** | Bilingual UI/Visual Design Showcase (`Next.js 16 · Tailwind · Three.js`) | [Live Demo](https://alejogarlati.vercel.app) · [Repo](https://github.com/alejogarlati/portfolio-web) |
+| **[Trace Studio Landing](https://github.com/alejogarlati/trace-studio-landing)** | Custom Software & Automation Web (`Next.js 16 · Three.js · GSAP`) | [Live Demo](https://trace-studio-landing.vercel.app) · [Repo](https://github.com/alejogarlati/trace-studio-landing) |
+| **[Nuven Landing](https://github.com/alejogarlati/nuven-landing)** | Brand Platform & Motion UI (`Next.js 16 · GSAP · Radix UI`) | [Live Demo](https://nuven-landing.vercel.app) · [Repo](https://github.com/alejogarlati/nuven-landing) |
+| **[Fundación El Casco Rosa](https://github.com/alejogarlati/landing-casco-rosa-mvp)** | Multi-route Institutional MVP (`Next.js 16 · Framer Motion`) | [Live Demo](https://landing-casco-rosa-mvp.vercel.app) · [Repo](https://github.com/alejogarlati/landing-casco-rosa-mvp) |
+| **[Sync MeLi Desktop GUI](https://github.com/alejogarlati/actualizador_mercadolibre_gui)** | Desktop Price & Stock Sync UI (`Electron · React 19 · Tailwind v4`) | [Repo](https://github.com/alejogarlati/actualizador_mercadolibre_gui) |
+| **[WhatsApp AI Starter](https://github.com/alejogarlati/whatsapp-ai-starter)** | Enterprise AI Chatbot Architecture (`.NET 10 · PostgreSQL · Gemini`) | [Repo](https://github.com/alejogarlati/whatsapp-ai-starter) |
